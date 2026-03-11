@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Threat Intel",
+  "description": "A comprehensive Threat Intelligence and IOC Analysis Platform for security analysts to track threat actors, analyze indicators of compromise, and visualize attack trends.",
+  "requestFramePermissions": []
+}
